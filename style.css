@@ -1,0 +1,34 @@
+@charset utf-8;
+
+h1#titu{
+    text-align: center;
+    background-color: #A5FFD6;
+}
+body{
+    background-color: #080f0f;
+}
+div#menu{
+    text-align: center;
+}
+img{
+    margin-left: 535px;
+    
+}
+p{
+    color: white;
+}
+h2{
+    color: #2b50aa;
+}
+h1{
+    color: #77685d;
+}
+
+footer{
+   
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    bottom: 0;
+    width: 100%;
+}
